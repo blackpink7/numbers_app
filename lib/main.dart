@@ -1,5 +1,4 @@
 import 'package:flutter/material.dart';
-import 'package:http/http.dart' as http;
 import 'package:numbers_app/home_page.dart';
 import 'package:numbers_app/saved_facts_page.dart';
 
